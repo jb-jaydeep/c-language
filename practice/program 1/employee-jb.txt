@@ -1,0 +1,4 @@
+eid	name	dept	bs	hra	dt	ta	gs
+
+1	jay	comp	12500	10.00	6.00	4.00	12520.00
+2	deep	mech	17500	10.00	6.00	4.00	17520.00
